@@ -1,0 +1,72 @@
+#about{
+    
+    color:black;
+    font-family: roboto;
+    text-align: center;
+    
+}
+#work{
+    
+    color:black;
+    font-family: roboto;
+    text-align: center;
+    
+
+
+}
+#resume{
+    color:black;
+    font-family: roboto;
+    text-align: center;
+    
+}
+
+#navbar{
+    background-color: red;
+    text-align: center;
+    padding-right: 100px;
+    flex-direction: column;
+    text-decoration: none;
+height: 30px;
+}
+#list{
+    width: 100%;
+    align-self: center;
+}
+
+#list li{
+    display: inline-block;
+    margin-right: 50px;
+}
+#img{
+    padding-left: 10px;
+    margin-top: 0px;
+}
+footer{
+    display: flex;
+    justify-content: space-evenly;
+    background-color:yellow;
+    height: 250px;
+    align-items: center;
+}
+.contact{
+    display: flex;
+    flex-direction: column;
+
+}
+.about{
+    background-color: red;
+    color:black;
+    margin: auto;
+}
+.work{
+    background-color: red;
+    color:black;
+    margin:auto;
+
+}
+.resume{
+    background-color: red;
+    color:black;
+    margin: auto;
+}
